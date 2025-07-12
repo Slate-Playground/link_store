@@ -5,8 +5,10 @@
     "description": "Advanced timer with focus modes and analytics",
     "icon": "timer_rounded",
     "version": "1.2.0",
-    "author": "Slate",
-    "category": "Essentials"
+    "author": "Slate Team",
+    "category": "Essentials",
+    "rating": 4.8,
+    "downloads": 1247000
   },
   {
     "id": "92k3m8",
@@ -14,8 +16,10 @@
     "description": "Quick note taking with cloud sync",
     "icon": "note_rounded",
     "version": "1.1.5",
-    "author": "Slate",
-    "category": "Essentials"
+    "author": "Slate Team",
+    "category": "Essentials",
+    "rating": 4.6,
+    "downloads": 892000
   },
   {
     "id": "73p9q2",
@@ -23,8 +27,10 @@
     "description": "Guided meditation and breathing exercises",
     "icon": "self_improvement_rounded",
     "version": "1.0.8",
-    "author": "Slate",
-    "category": "Wellness"
+    "author": "Slate Team",
+    "category": "Wellness",
+    "rating": 4.9,
+    "downloads": 2156000
   },
   {
     "id": "61r4s7",
@@ -32,8 +38,10 @@
     "description": "Track and build positive habits",
     "icon": "trending_up_rounded",
     "version": "1.3.2",
-    "author": "Slate",
-    "category": "Productivity"
+    "author": "Slate Team",
+    "category": "Productivity",
+    "rating": 4.7,
+    "downloads": 1567000
   },
   {
     "id": "45t8u1",
@@ -41,8 +49,10 @@
     "description": "Local weather with beautiful animations",
     "icon": "wb_sunny_rounded",
     "version": "1.0.4",
-    "author": "Slate",
-    "category": "Utilities"
+    "author": "Slate Team",
+    "category": "Utilities",
+    "rating": 4.4,
+    "downloads": 634000
   },
   {
     "id": "29v6w3",
@@ -50,8 +60,10 @@
     "description": "Control your music with gestures",
     "icon": "music_note_rounded",
     "version": "1.1.0",
-    "author": "Slate",
-    "category": "Entertainment"
+    "author": "Slate Team",
+    "category": "Entertainment",
+    "rating": 4.5,
+    "downloads": 743000
   },
   {
     "id": "17x8y5",
@@ -59,8 +71,10 @@
     "description": "Track workouts and health metrics",
     "icon": "fitness_center_rounded",
     "version": "1.0.6",
-    "author": "Slate",
-    "category": "Wellness"
+    "author": "Slate Team",
+    "category": "Wellness",
+    "rating": 4.6,
+    "downloads": 1123000
   },
   {
     "id": "93z0a7",
@@ -68,7 +82,9 @@
     "description": "Daily reflection and mood tracking",
     "icon": "book_rounded",
     "version": "1.0.3",
-    "author": "Slate",
-    "category": "Wellness"
+    "author": "Slate Team",
+    "category": "Wellness",
+    "rating": 4.3,
+    "downloads": 445000
   }
 ] 
