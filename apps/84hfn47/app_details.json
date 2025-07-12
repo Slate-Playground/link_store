@@ -1,19 +1,47 @@
 {
-  "title": "Focus Timer",
   "id": "84hfn47",
-  "icon": "timer_rounded",
-  "description": "Advanced timer with focus modes and analytics.",
-  "screenshots": [
-    "#",
-    "#"
-  ],
-  "features": [
-    "Pomodoro mode",
-    "Analytics dashboard",
-    "Customizable sessions"
-  ],
+  "title": "Focus Timer",
+  "description": "Advanced timer with focus modes and analytics",
+  "longDescription": "Transform your productivity with our advanced focus timer. Features Pomodoro technique support, customizable intervals, focus analytics, and beautiful dark mode interface. Perfect for deep work sessions and maintaining concentration.",
   "version": "1.2.0",
   "author": "Slate Team",
-  "downloadUrl": "#",
-  "category": "Essentials"
+  "category": "Essentials",
+  "downloadUrl": "https://raw.githubusercontent.com/Slate-Playground/link_store/main/apps/84hfn47/download.zip",
+  "screenshots": [
+    "https://raw.githubusercontent.com/Slate-Playground/link_store/main/apps/84hfn47/screenshots/screenshot1.png",
+    "https://raw.githubusercontent.com/Slate-Playground/link_store/main/apps/84hfn47/screenshots/screenshot2.png",
+    "https://raw.githubusercontent.com/Slate-Playground/link_store/main/apps/84hfn47/screenshots/screenshot3.png"
+  ],
+  "icon": "https://raw.githubusercontent.com/Slate-Playground/link_store/main/apps/84hfn47/screenshots/icon.png",
+  "features": [
+    "Pomodoro technique support",
+    "Focus analytics and insights",
+    "Customizable work/break intervals",
+    "Beautiful dark mode interface",
+    "Session history tracking",
+    "Focus score calculation",
+    "Gentle notifications",
+    "Offline functionality"
+  ],
+  "requirements": {
+    "minVersion": "1.0.0",
+    "storage": "2.5MB",
+    "permissions": ["notifications"]
+  },
+  "changelog": {
+    "1.2.0": [
+      "Added focus analytics dashboard",
+      "Improved timer accuracy",
+      "New dark mode themes",
+      "Bug fixes and performance improvements"
+    ],
+    "1.1.0": [
+      "Added custom interval support",
+      "Session history feature",
+      "UI improvements"
+    ]
+  },
+  "rating": 4.8,
+  "downloads": 1247,
+  "lastUpdated": "2024-01-15"
 } 
